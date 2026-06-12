@@ -1,15 +1,35 @@
 [
   {
     "name": "супермар",
-    "score": 1525
+    "score": 13249
+  },
+  {
+    "name": "KIRKOR",
+    "score": 3066
+  },
+  {
+    "name": "babangid",
+    "score": 2715
+  },
+  {
+    "name": "dotagent",
+    "score": 2010
+  },
+  {
+    "name": "claude",
+    "score": 1879
+  },
+  {
+    "name": "zalupa",
+    "score": 1869
+  },
+  {
+    "name": "Horwhat",
+    "score": 1548
   },
   {
     "name": "ТАНЦОР",
     "score": 1509
-  },
-  {
-    "name": "Horwhat",
-    "score": 1503
   },
   {
     "name": "balabol",
@@ -18,13 +38,5 @@
   {
     "name": "zamay",
     "score": 1423
-  },
-  {
-    "name": "AI_SASHA",
-    "score": 582
-  },
-  {
-    "name": "оксимино",
-    "score": 503
   }
 ]
