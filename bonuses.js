@@ -10,4 +10,18 @@ const BONUSES={
   loot:  {icon:'💰', color:'#7CFC00', dur:0,  chance:0.10,
           quote:'GIMME THE LOOT +500 💰',
           hud:''},
+  slot:  {icon:'🎰', color:'#ff2d78', dur:0,  chance:0.07,
+          quote:'КАЗИНО ОТКРЫТО, ЖМИ РУЧКУ 🎰',
+          hud:''},
 };
+// исходы слота: t — баннер, k — ключ эффекта в игре
+const SLOT_OUTCOMES=[
+  {t:'ДЖЕКПОТ! +2000 💰', k:'jackpot'},
+  {t:'X2 ОЧКОВ, ЭЩКЕРЕ 🔥', k:'double'},
+  {t:'МИНУС 500, ЭТО ФИАСКО 📉', k:'lose'},
+  {t:'ВСЕХ СНЕСЛО 💀', k:'wipe'},
+  {t:'ПОЛЕГЧЕ, ТАЕТ ЛЁД 🧊', k:'slow'},
+  {t:'ГАЗ В ПОЛ +1500 🏎', k:'rush'},
+  {t:'ДЖЕТПАК С НЕБА 🚀', k:'jet'},
+  {t:'НИЧЕГО. БЫВАЕТ 🚬', k:'none'},
+];
